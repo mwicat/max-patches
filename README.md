@@ -1,2 +1,2 @@
-# max-patchers
-Personal collection of Max patchers and Max for Live devices
+# max-patches
+Personal collection of Max patches and Max for Live devices
